@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5881" started-at="2019-01-04T15:23:16Z" finished-at="2019-01-04T15:23:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5881" started-at="2019-01-04T15:23:16Z" finished-at="2019-01-04T15:23:22Z">
+      <class name="automationTests.ExtentReportsDemoWithTestNG">
+        <test-method status="PASS" signature="setUpReport()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="setUpReport" is-config="true" duration-ms="206" started-at="2019-01-04T15:23:16Z" finished-at="2019-01-04T15:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="setUpTest" is-config="true" duration-ms="4751" started-at="2019-01-04T15:23:16Z" finished-at="2019-01-04T15:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="firstTest" duration-ms="1084" started-at="2019-01-04T15:23:21Z" finished-at="2019-01-04T15:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="firstTest2()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="firstTest2" duration-ms="3" started-at="2019-01-04T15:23:22Z" finished-at="2019-01-04T15:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest2 -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="tearDownTest" is-config="true" duration-ms="1" started-at="2019-01-04T15:23:22Z" finished-at="2019-01-04T15:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationTests.ExtentReportsDemoWithTestNG@5442a311]" name="tearDown" is-config="true" duration-ms="451" started-at="2019-01-04T15:23:22Z" finished-at="2019-01-04T15:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automationTests.ExtentReportsDemoWithTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
